@@ -7,3 +7,5 @@ Facebook Project
 3. add profile pic code
 
 4. add videos code
+
+5.Share options
